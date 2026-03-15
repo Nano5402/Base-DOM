@@ -2,72 +2,92 @@
   "users": [
     {
       "id": "1",
-      "name": "Karol Nicolle",
+      "name": "Karolina Nicolle",
       "email": "karoltorres@gmail.com",
-      "document": "1023456789"
+      "document": "1005123456",
+      "role": "user",
+      "status": "activo"
     },
     {
       "id": "2",
-      "name": "Ana Isabella Garcia Rozo",
+      "name": "Ana Isabella",
       "email": "anaisabellagarciarozo@gmail.com",
-      "document": "1098765432"
+      "document": "1098765432",
+      "role": "user",
+      "status": "activo"
     },
     {
       "id": "3",
-      "name": "Sebastian Patilla",
+      "name": "Sebastian Patillas",
       "email": "sebaspatiño@gmail.com",
-      "document": "1012345678"
+      "document": "1010223344",
+      "role": "user",
+      "status": "activo"
     },
     {
       "id": "4",
-      "name": "Fernando Andrés",
+      "name": "Fernando Rodriguez",
       "email": "fernando@gmail.com",
-      "document": "1045678912"
+      "document": "1054332211",
+      "role": "user",
+      "status": "activo"
     },
     {
       "id": "5",
       "name": "Manuel Serrano",
-      "email": "manuse@mail.com",
-      "document": "1076543210"
+      "email": "manuse@gmail.com",
+      "document": "1095887766",
+      "role": "user",
+      "status": "activo"
     },
     {
       "id": "6",
       "name": "Paulo Pacheco",
       "email": "paulo@gmail.com",
-      "document": "1034567891"
+      "document": "1032445566",
+      "role": "user",
+      "status": "activo"
     },
     {
       "id": "7",
       "name": "Wilmer Ferney",
       "email": "wilmer@gmail.com",
-      "document": "1087654321"
+      "document": "1088990011",
+      "role": "user",
+      "status": "activo"
     },
     {
       "id": "8",
       "name": "Jhon Bueno",
       "email": "jhonbueno@gmail.com",
-      "document": "1056789123"
+      "document": "1077665544",
+      "role": "user",
+      "status": "activo"
     },
     {
       "id": "9",
       "name": "Dario Herrera",
-      "email": "darioherra@gmail.com",
-      "document": "1065432198"
+      "email": "darioherrera@gmail.com",
+      "document": "1066554433",
+      "role": "user",
+      "status": "activo"
     },
     {
       "id": "10",
-      "name": "Andrés Santiago Calvete Lesmes",
+      "name": "Andres",
       "email": "santiagocalvete69@gmail.com",
-      "document": "1097789129"
+      "document": "1097789129",
+      "role": "admin",
+      "status": "activo"
+    },
+    {
+      "id": "11",
+      "name": "John",
+      "email": "jfbecerra@sena.edu.co",
+      "document": "1122334455",
+      "role": "admin",
+      "status": "activo"
     }
   ],
-  "tasks": [
-    {
-      "id": "1",
-      "userId": 2,
-      "title": "DOM",
-      "body": "Actualizar estructura HTML",
-      "status": "pendiente"
-    }
-  ]
+  "tasks": []
 }
